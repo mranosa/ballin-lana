@@ -1,0 +1,56 @@
+CACHE MANIFEST
+
+# Time: Sat Apr 27 2013 21:21:37 GMT+0800 (PHT)
+# This manifest was created by confess.js, http://github.com/jamesgpearce/confess
+#
+# Retrieved URL: http://localhost:3501/#/
+# User-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.12 Safari/535.11
+#
+# Config:
+#  task: appcache
+#  userAgent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.12 Safari/535.11
+#  wait: 0
+#  consolePrefix: #
+#  verbose: true
+#  appcache:
+#   urlsFromDocument: true
+#   urlsFromRequests: false
+#   cacheFilter: .*
+#   networkFilter: null
+#  url: http://localhost:3501
+#  configFile: /usr/local/lib/node_modules/yeoman/lib/support/confess.json
+
+CACHE:
+components/angular-resource/angular-resource.min.js
+http://localhost:3501/images/2c35c007.glyphicons-halflings.png
+http://localhost:3501/images/5d462625.glyphicons-halflings-white.png
+http://localhost:3501/images/line.png
+http://localhost:3501/images/logo.png
+http://localhost:3501/images/pattern.jpg
+http://localhost:3501/images/social-icons/behance.png
+http://localhost:3501/images/social-icons/dribbble.png
+http://localhost:3501/images/social-icons/email.png
+http://localhost:3501/images/social-icons/facebook.png
+http://localhost:3501/images/social-icons/flickr.png
+http://localhost:3501/images/social-icons/forrst.png
+http://localhost:3501/images/social-icons/github.png
+http://localhost:3501/images/social-icons/googleplus.png
+http://localhost:3501/images/social-icons/linkedin.png
+http://localhost:3501/images/social-icons/pinterest.png
+http://localhost:3501/images/social-icons/rss.png
+http://localhost:3501/images/social-icons/skype.png
+http://localhost:3501/images/social-icons/tumblr.png
+http://localhost:3501/images/social-icons/twitter.png
+http://localhost:3501/images/social-icons/vimeo.png
+http://localhost:3501/images/social-icons/youtube.png
+http://www.google-analytics.com/ga.js
+https://cdn.firebase.com/v0/firebase.js
+images/83f0b1e6.logo.jpg
+images/a6dfa836.starbucks-coffee.jpg
+scripts/96e37c51.scripts.js
+scripts/vendor/39fb0602.angularfire.js
+scripts/vendor/d10639ae.angular.js
+styles/0573d201.main.css
+
+NETWORK:
+*

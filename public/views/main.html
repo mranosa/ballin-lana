@@ -1,0 +1,57 @@
+<!-- Header -->
+<div class="container">
+    <div class="header row">
+        <div class="span12">
+            <div class="navbar">
+                <div class="navbar-inner">
+                    <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </a>
+                    <h1>
+                        <!-- <p>Go Dutch</p> -->
+                        <img src="images/83f0b1e6.logo.jpg">
+                    </h1>
+                    <div class="nav-collapse collapse">
+                        <ul class="nav pull-right">
+                            <li>
+                                <a href="#"><i class="icon-home"></i><br />Home</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="wrapper wrapper-page container">
+    <div class="row">
+            <div class="span8">
+                <div style="border:2px solid #ccc;padding:10px;display:table;margin:0 auto;">
+                    <img src="images/a6dfa836.starbucks-coffee.jpg" style="width:100%"/>
+                </div>  
+            </div>
+            <div class="span4" style="margin:0;">
+                <h1>Starbucks Coffee</h1>
+                <p style="font-size:18px;">For all startup weekend attendies</p>
+                <div>
+                    <h2 style="color:green">Php {{item.price}} more</h2>
+                </div>
+                <div>
+                    <h5>{{item.counter}} <i class="icon-user"></i> pitched</<h5>
+                </div>
+            </div>
+    </div>
+    <div class="row" style="margin-top:10px;" ng-hide="page.pitched">
+        <input class="input span4" type="text" placeholder="Name" style="padding:10px 0;font-size:22px;"/>
+        <input type="text" placeholder="Amount" min="100" style="padding:10px 0;font-size:22px;" ng-model="page.price"/>
+        <button class="btn btn-primary btn-large" style="margin-top:-10px;background:teal" ng-click="updatePitchAmount()">Pitch In!</button>
+    </div>
+    <div class="row" ng-show="page.pitched">
+         <div class="class12" style="text-align:center">
+        <h1>Thank you for pitching in to the Stackbucks Coffee</h1>
+        <div> 
+    </di>
+</div>
