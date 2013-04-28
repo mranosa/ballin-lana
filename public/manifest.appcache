@@ -1,6 +1,6 @@
 CACHE MANIFEST
 
-# Time: Sat Apr 27 2013 21:21:37 GMT+0800 (PHT)
+# Time: Sun Apr 28 2013 13:00:14 GMT+0800 (PHT)
 # This manifest was created by confess.js, http://github.com/jamesgpearce/confess
 #
 # Retrieved URL: http://localhost:3501/#/
@@ -47,7 +47,7 @@ http://www.google-analytics.com/ga.js
 https://cdn.firebase.com/v0/firebase.js
 images/83f0b1e6.logo.jpg
 images/a6dfa836.starbucks-coffee.jpg
-scripts/96e37c51.scripts.js
+scripts/8824e926.scripts.js
 scripts/vendor/39fb0602.angularfire.js
 scripts/vendor/d10639ae.angular.js
 styles/0573d201.main.css

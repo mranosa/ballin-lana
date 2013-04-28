@@ -7,6 +7,10 @@ var drunkenOctoAdventureApp = angular.module('drunkenOctoAdventureApp', ['fireba
         templateUrl: 'views/main.html',
         controller: 'MainCtrl'
       })
+      .when('/gift-for-baby-carlie', {
+        templateUrl: 'views/gift-for-baby-carlie.html',
+        controller: 'Gift-For-Baby-CarlieCtrl'
+      })
       .otherwise({
         redirectTo: '/'
       });
